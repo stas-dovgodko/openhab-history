@@ -1,0 +1,23 @@
+{
+  "name": "openhab-history",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stas-dovgodko/openhab-history.git"
+  },
+  "keywords": [
+    "openhab",
+    "history"
+  ],
+  "author": "Stas Dovgodko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stas-dovgodko/openhab-history/issues"
+  },
+  "homepage": "https://github.com/stas-dovgodko/openhab-history#readme"
+}
